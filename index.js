@@ -53,5 +53,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`ema jhon running on: ${port}`)
+  console.log(`ema jhon running on: ${port}`);
 })
